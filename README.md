@@ -1,4 +1,4 @@
-# SourceryJS
+# Sourcery
 
 *Package resolution and metadata guidelines for browser JS.*
 
